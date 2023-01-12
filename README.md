@@ -5,7 +5,6 @@
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine on Azure](https://github.com/roslyndwilliams/virtual-machine)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/roslyndwilliams/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/roslyndwilliams/azure-network-protocols)
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
