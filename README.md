@@ -4,7 +4,8 @@
 
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine on Azure](https://github.com/roslyndwilliams/virtual-machine)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/roslyndwilliams/configure-ad)
+  - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/roslyndwilliams/configure-ad)
+  - [Install and Configure the File Server Role](https://github.com/RoslyndWilliams/install-and-configure-the-file-server-role)
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
